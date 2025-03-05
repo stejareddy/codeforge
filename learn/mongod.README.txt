@@ -1,0 +1,17 @@
+MongoDB 
+#Installation -> download latest deb file from mongodb.com>>products>>communityedition>>downloadcommunity
+$sudo dpkg -i <filelocation of mongo deb file>
+#status check, enable, start, stop mongod. service 
+$sudo systemctl status mongod.service 
+$sudo systemctl enable mongod.service 
+$sudo systemctl start mongod.service 
+$sudo mongosh #To enter mongodb 
+#create a db 
+
+#create a table 
+
+
+
+
+
+
